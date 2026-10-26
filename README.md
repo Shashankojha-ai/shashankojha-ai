@@ -1,11 +1,11 @@
 
 # Hi, I'm Shashank Ojha 👋
 
-🎓 B.Tech CSE & AI Student at Newton School of Technology
+B.Tech CSE & AI Student at Newton School of Technology
 
 I'm currently starting my journey in Computer Science, Artificial Intelligence, and Machine Learning.
 
-🌱 Currently learning:
+Currently learning:
 - Python
 - Computer Science fundamentals
 - Programming & problem solving
